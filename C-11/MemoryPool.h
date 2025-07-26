@@ -20,6 +20,8 @@
  * IN THE SOFTWARE.
  */
 
+//  fork by caoyang
+
 #ifndef MEMORY_POOL_H
 #define MEMORY_POOL_H
 
